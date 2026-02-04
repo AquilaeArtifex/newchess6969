@@ -1,4 +1,4 @@
-const game = new Chess();
+const game = new newchess6969();
 
 const board = Chessboard('board', {
   draggable: true,
@@ -13,3 +13,4 @@ const board = Chessboard('board', {
     if (move === null) return 'snapback';
   }
 });
+

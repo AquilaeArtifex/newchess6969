@@ -13,4 +13,3 @@ const board = Chessboard('board', {
     if (move === null) return 'snapback';
   }
 });
-
